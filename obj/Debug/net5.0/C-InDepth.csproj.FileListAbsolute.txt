@@ -1,0 +1,16 @@
+E:\user\homework\C-InDepth\bin\Debug\net5.0\C-InDepth.exe
+E:\user\homework\C-InDepth\bin\Debug\net5.0\C-InDepth.deps.json
+E:\user\homework\C-InDepth\bin\Debug\net5.0\C-InDepth.runtimeconfig.json
+E:\user\homework\C-InDepth\bin\Debug\net5.0\C-InDepth.runtimeconfig.dev.json
+E:\user\homework\C-InDepth\bin\Debug\net5.0\C-InDepth.dll
+E:\user\homework\C-InDepth\bin\Debug\net5.0\ref\C-InDepth.dll
+E:\user\homework\C-InDepth\bin\Debug\net5.0\C-InDepth.pdb
+E:\user\homework\C-InDepth\obj\Debug\net5.0\C-InDepth.csprojAssemblyReference.cache
+E:\user\homework\C-InDepth\obj\Debug\net5.0\C-InDepth.GeneratedMSBuildEditorConfig.editorconfig
+E:\user\homework\C-InDepth\obj\Debug\net5.0\C-InDepth.AssemblyInfoInputs.cache
+E:\user\homework\C-InDepth\obj\Debug\net5.0\C-InDepth.AssemblyInfo.cs
+E:\user\homework\C-InDepth\obj\Debug\net5.0\C-InDepth.csproj.CoreCompileInputs.cache
+E:\user\homework\C-InDepth\obj\Debug\net5.0\C-InDepth.dll
+E:\user\homework\C-InDepth\obj\Debug\net5.0\ref\C-InDepth.dll
+E:\user\homework\C-InDepth\obj\Debug\net5.0\C-InDepth.pdb
+E:\user\homework\C-InDepth\obj\Debug\net5.0\C-InDepth.genruntimeconfig.cache
